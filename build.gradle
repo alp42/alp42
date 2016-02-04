@@ -105,3 +105,6 @@ task alp42(
     description: 'collects all required tasks for creating aim42 documentation'
 ) << { }
 
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.4'
+}

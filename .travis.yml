@@ -1,4 +1,9 @@
 language: java
+install: ''
+script:
+- export TERM=dumb
+- './gradlew wrapper'
+- './gradlew clean alp42 publish --stacktrace'
 jdk:
 - oraclejdk8
 env:
