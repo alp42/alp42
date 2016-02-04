@@ -108,3 +108,13 @@ task alp42(
 task wrapper(type: Wrapper) {
     gradleVersion = '2.4'
 }
+
+task publish(type: GradleBuild) {
+    String travisPr = System.getenv('TRAVIS_PULL_REQUEST')
+    if ("false".equals(travisPr)) {
+        buildFile = 'publish.gradle'
+        tasks = ['publishGhPages']
+    } else {
+        println 'env var TRAVIS_PULL_REQUEST says we build for PR #' + travisPr + ', won\'t publish docs!'
+    }
+}
