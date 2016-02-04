@@ -1,0 +1,25 @@
+buildscript {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'org.ajoberstar:gradle-git:1.0.0'
+    }
+}
+
+apply plugin: 'org.ajoberstar.github-pages'
+
+githubPages {
+  repoUri = 'https://github.com/alp42/alp42.github.io.git'
+  targetBranch = 'master'
+  pages {
+    from('build/docs/html5')
+  }
+  credentials {
+    username = System.getenv('GH_TOKEN')
+    password = ''
+  }
+}
