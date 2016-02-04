@@ -1,0 +1,26 @@
+:numbered!:
+
+== About alp42
+
+[role="lead"]
+alp42 is a pattern colleciton for agile and lean software development.
+
+[NOTE]
+--
+http://alp42.org[alp42] is a collection of practices and patterns for agile and lean software development:
+
+alp42:
+
+. helps you to find the right agile aproach for your project
+. is not bound to any framework or methodology
+. supports both business and technical stakeholders
+. organizes patterns and practices for various 
+. Free and open-source, <<contributions,contributions>> welcome
+. Grounded in practice , proven approaches, backed by serious research
+--
+
+Authored by the agilepattern community, lead by Gerrit Beine <mail@gerritbeine.de>.
+http://alp42.org[alp42] is based on the concept and tools of http://aim42.org[aim42].
+
+image:http://img.shields.io/badge/Version-{version}-green.svg[{version}] 
+image:http://img.shields.io/badge/Date-{currentDate}-green.svg[{currentDate}]
