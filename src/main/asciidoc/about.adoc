@@ -14,9 +14,8 @@ alp42:
 . helps you to find the right agile aproach for your project
 . is not bound to any framework or methodology
 . supports both business and technical stakeholders
-. organizes patterns and practices for various 
-. Free and open-source, <<contributions,contributions>> welcome
-. Grounded in practice , proven approaches, backed by serious research
+. free and open-source, <<contributions,contributions>> welcome
+. grounded in practice , proven approaches, backed by serious research
 --
 
 Authored by the agilepattern community, lead by Gerrit Beine <mail@gerritbeine.de>.

@@ -1,0 +1,19 @@
+[[contributions]]
+
+=== Contribute to alp42.org icon:smile-o[]
+This content is open source! The source is hosted under the alp42 organization on GitHub.
+
+If you want to help by improving upon it, fork the project, revise the content, then send a pull request. 
+
+icon:github[2x] Source:: 
+alp42 currently provides a pattern collection, the asciidoc sources are hosted at https://github.com/alp42/alp2[GitHub under the alp42 organization].
+
+icon:bolt[2x] Issues:: 
+Look over https://github.com/alp42/alp42/issues[our open issues], pick one, fork the repository and resolve the issue. Send over a pull request!
+
+icon:twitter[2x] Twitter:: 
+https://twitter.com/alpatterns42[@alpatterns42]
+
+icon:comment-o[2x] Suggestions::
+Feel free to open an issue (see above)!
+

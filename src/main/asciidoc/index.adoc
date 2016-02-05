@@ -14,3 +14,7 @@
 :linkattrs:
 
 include::about.adoc[]
+
+include::contributing.adoc[]
+
+include::team.adoc[]

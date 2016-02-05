@@ -1,0 +1,6 @@
+[[team]]
+
+=== The Team
+
+* Gerrit Beine (Managing Consultant at adesso AG, project founder): setup, patterns, practices
+* (what are you waiting for - *join us*!)
