@@ -20,3 +20,7 @@ liberal [Creative Commons Sharealike 4.0](http://creativecommons.org/licenses/by
 * found mistakes or ommissions: create an [issue](https://github.com/alp42/alp42/issues)
 * have ideas: fork the [repository](https://github.com/alp42/alp42) and create a pull request. You need a basic understanding of [Git](http://git-scm.com) for this.
 * follow us on [Twitter](https://twitter.com/alpatterns42)
+
+### Current status
+
+[![Build Status](http://img.shields.io/travis/alp42/alp42/master.svg)](https://travis-ci.org/alp42/alp42")
