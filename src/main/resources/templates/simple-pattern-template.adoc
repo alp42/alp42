@@ -1,0 +1,31 @@
+[[pattern-name]]
+=== Pattern Name
+
+[TIP]
+--
+Comma separated list of other pattern or keywords related to this pattern
+--
+
+==== Context
+
+...
+
+==== Problem
+
+...
+
+==== Forces
+
+...
+
+==== Solution
+
+...
+
+==== Consequences
+
+...
+
+==== Variants
+
+...
