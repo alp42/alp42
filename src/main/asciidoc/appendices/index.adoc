@@ -1,1 +1,3 @@
+include::pattern-templates.adoc[]
+
 include::organizational-stuff.adoc[]

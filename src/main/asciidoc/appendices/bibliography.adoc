@@ -1,0 +1,10 @@
+:numbered:
+
+[[bibliography]]
+[appendix]
+== Bibliography
+
+* [[[manns-fearless]]] Manns, Mary Lynn & Rising, Lynda: Fearless Change, Pearson Education, 2005
+
+* [[[schuetz-patterns]]] Didi Schütz, Andreas Fießer & Tim Wellhausen: Patterns selbst gemacht, Java User Group Munich, http://www.tim-wellhausen.de/papers/PatternsSelbstGemacht-Vortrag.pdf[Slides], http://www.tim-wellhausen.de/papers/PatternsSelbstGemacht-Zusammenfassung.pdf[Paper]
+

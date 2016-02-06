@@ -8,7 +8,7 @@
 :description: 
 :keywords: agile, agility, agile software development, lean, patterns
 :toc:
-:toclevels: 3
+:toclevels: 2
 :imagesdir: ./images
 :homepage: http://alp42.org
 :linkattrs:

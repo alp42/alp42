@@ -1,0 +1,52 @@
+:numbered:
+
+[appendix]
+== Pattern Templates
+
+Patterns should be written in a more or less formal way.
+A common structure makes it easier to compare patterns and find the best fitting one for a concrete problem.
+
+At the moment alp42 uses two different pattern structures.
+A simple and leightweight one based on the pattern approach by <<schuetz-pattern, Didi Schütz et.al.>>.
+The other template follows the more exhaustive pattern structure used by Mary Lynn Manns and Lynda Rising for their <<manns-fearless,Fearless Change Patterns>>.
+
+You can find ready-to-use tempaltes for both structures in our https://github.com/alp42/alp42/tree/master/src/main/resources/templates[GitHub Repository]
+
+=== Simple Pattern Template
+
+==== Context
+
+Where does the problem appear?
+Under which circumstances can the problem be seen?
+
+==== Problem
+
+
+
+==== Forces
+
+==== Solution
+
+==== Consequences
+
+==== Variants
+
+=== Exhaustive Pattern Template
+
+==== Opening Story
+
+==== Summary
+
+==== Context
+
+==== Problem
+
+==== Forces
+
+==== Essence of the Solution
+
+==== More about the Solution
+
+==== Resulting Context
+
+==== Known Uses
