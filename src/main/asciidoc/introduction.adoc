@@ -1,0 +1,9 @@
+== Introduction 
+
+=== Patterns and Practices Provide No Guarantee
+
+You have to use all practices, patterns and approaches of alp42 at your own risk 
+and responsibility. We (the alp42 contributor team) can by no means be held 
+responsible for any results of applying alp42.
+
+
