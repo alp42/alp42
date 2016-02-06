@@ -1,3 +1,5 @@
+include::bibliography.adoc[]
+
 include::pattern-templates.adoc[]
 
 include::organizational-stuff.adoc[]
