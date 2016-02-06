@@ -23,4 +23,4 @@ liberal [Creative Commons Sharealike 4.0](http://creativecommons.org/licenses/by
 
 ### Current status
 
-[![Build Status](http://img.shields.io/travis/alp42/alp42/master.svg)](https://travis-ci.org/alp42/alp42")
+[![Build Status](http://img.shields.io/travis/alp42/alp42/master.svg)](https://travis-ci.org/alp42/alp42)
