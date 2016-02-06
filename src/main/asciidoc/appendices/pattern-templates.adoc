@@ -21,15 +21,30 @@ Under which circumstances can the problem be seen?
 
 ==== Problem
 
+Tell about the problem.
+Why is it a complicated problem and difficult to solve?
 
+Try to describe the problem as specific as possible.
+Experience shows that this is a hard task, but it is essential for a high quality pattern.
 
 ==== Forces
 
+Which forces have an effect to the problem or the solution?
+How does the pattern balance these forces?
+
 ==== Solution
+
+How does the pattern solve the problem?
+Describe the pattern and how it should be used.
 
 ==== Consequences
 
+What is the expected outcome of using the pattern?
+Which positive and negative consequenes result from the pattern?
+
 ==== Variants
+
+If there are different variants of the pattern used, give a short description of them here.
 
 === Exhaustive Pattern Template
 
