@@ -1,0 +1,171 @@
+:numbered!:
+:linkattrs:
+
+[appendix]
+== Asciidoc Help
+
+To facilitate contributions we summarize the AsciiDoc (respectively AsciiDoctor) features used within this guide.
+
+[TIP]
+--
+We found the following information especially helpful for learning asciidoc: 
+
+* http://asciidoctor.org/docs/asciidoc-writers-guide[AsciiDoctor Writers Guide]
+* Chrome-Add-In for http://asciidoctor.org/news/2013/09/18/introducing-asciidoctor-js-live-preview/[Live-preview]: 
+--
+
+
+=== Headings
+
+=== Cross-References
+
+
+<<some-anchor,explanation>> creates a link to the explanation of some-anchor.
+
+can use the cross-reference in a list, but not with labelled-list:
+
+. <<some-anchor, pattern name>>  labelled-list with cross-reference does not work
+. *<<some-anchor, cross-references>>* need to be boldface-formatted manualy   
+
+
+=== (external) Links
+----
+https://github.com/alp42/alp42/issues/20[an external resource]
+----
+
+https://github.com/alp42/alp42/issues/20[an external resource]
+
+
+Link to files / artifacts in new browser window/tab:
+
+----
+link:./docs/readme-directory.md[readme]
+----
+
+link:./docs/readme-directory.md[readme]
+
+=== Anchor
+
+[[some-anchor]]
+here we explain 'some-anchor' topic...
+
+----
+<<some-anchor,explanation>> creates a link to the explanation of some-anchor.
+
+can use the cross-reference in a list, but not with labelled-list:
+
+. <<some-anchor, pattern name>>  labelled-list with cross-reference does not work
+. *<<some-anchor, cross-references>>* need to be boldface-formatted manualy   
+
+
+[[some-anchor]]
+here we explain 'some-anchor' topic...
+----
+
+
+=== Images and Diagrams
+
+Including images is quite easy:
+
+----
+[[caption-example]]
+image::logo-alp42.png["alternate-text", title="caption-example"]
+----
+[[caption-example]]
+image::logo-alp42.png["alternate-text", title="caption-example"]
+
+
+You can even reference these images, like see figure <<caption-example>>:
+
+----
+...see figure <<caption-example>>
+----
+
+I currently have no clue how to reference figure-numbers (their counter), though...
+
+
+=== Lists
+
+----
+* first entry
+* one more
+----
+
+* first entry
+* one more
+
+
+=== Admonitions
+
+Special annotations rendering nicely:
+
+----
+NOTE: Admonition paragraphs call attention to special words of advice
+
+WARNING: a warning
+
+CAUTION: be careful
+
+IMPORTANT: must be really worth reading
+
+TIP: maybe some practice report
+----
+
+NOTE: Admonition paragraphs call attention to special words of advice
+
+WARNING: a warning
+
+CAUTION: be careful
+
+IMPORTANT: must be really worth reading
+
+TIP: maybe some practice report
+
+
+----
+[TIP]
+--
+Multi-line admonitions blocks need special treatment: 
+
+they need a block-masquerading (e.g. by "--" at the beginning and end.
+
+The result is rendered nicely.
+--
+----
+renders as follows:
+
+[TIP]
+--
+Multi-line admonitions blocks need special treatment: 
+
+they need a block-masquerading (e.g. by "--" at the beginning and end.
+
+The result is rendered nicely.
+--
+
+=== Files and Directories
+
+Files are included with the "include" directive:
+
+[listing]
+  include::asciidoc-help.adoc[]
+
+
+=== Attributes
+Some attributes are useful, e.g.
+
+* `{docdate}` will insert the last modification data (here: {docdate})
+
+=== Footnotes
+In case you need a footnote - that's easy too:
+----
+A statement.footnote:[the text of this footnote, usually rendered at the end of the document.]
+----
+
+=== Typesetting
+Sometimes it can be useful to write [small]#smaller text#.
+
+----
+... useful to write [small]#smaller text#.
+----
+
