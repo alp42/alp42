@@ -2,3 +2,4 @@
 
 == Business Value Patterns
 
+include::net-present-value.adoc[]

@@ -1,0 +1,29 @@
+=== Net Present Value
+
+==== Tags
+
+Business Value, Backlog Item, Prioritizing, Cash Flows, Monetary Value
+
+==== Context
+
+...
+
+==== Problem
+
+...
+
+==== Forces
+
+...
+
+==== Solution
+
+...
+
+==== Consequences
+
+...
+
+==== Variants
+
+...
