@@ -1,0 +1,29 @@
+=== T-Shirt Sizes
+
+==== Tags
+
+Estimating, Sizing Unit, Relative Estimate
+
+==== Context
+
+...
+
+==== Problem
+
+...
+
+==== Forces
+
+...
+
+==== Solution
+
+...
+
+==== Consequences
+
+...
+
+==== Variants
+
+...

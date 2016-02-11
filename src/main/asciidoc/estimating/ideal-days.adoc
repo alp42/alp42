@@ -1,0 +1,29 @@
+=== Ideal Days
+
+==== Tags
+
+Estimating, Sizing Unit, Day Estimate
+
+==== Context
+
+...
+
+==== Problem
+
+...
+
+==== Forces
+
+...
+
+==== Solution
+
+...
+
+==== Consequences
+
+...
+
+==== Variants
+
+...

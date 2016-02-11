@@ -1,0 +1,4 @@
+[[businessvalue]]
+
+== Business Value Patterns
+

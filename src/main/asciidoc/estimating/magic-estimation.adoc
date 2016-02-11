@@ -1,0 +1,29 @@
+=== Magic Estimation
+
+==== Tags
+
+Estimating
+
+==== Context
+
+...
+
+==== Problem
+
+...
+
+==== Forces
+
+...
+
+==== Solution
+
+...
+
+==== Consequences
+
+...
+
+==== Variants
+
+...

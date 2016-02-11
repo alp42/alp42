@@ -1,0 +1,17 @@
+[[estimating]]
+
+== Estimating Patterns
+
+include::planning-poker.adoc[]
+
+include::magic-estimation.adoc[]
+
+include::affinity-estimation.adoc[]
+
+include::man-days.adoc[]
+
+include::ideal-days.adoc[]
+
+include::story-points.adoc[]
+
+include::t-shirt-sizing.adoc[]

@@ -1,0 +1,29 @@
+=== Story Points
+
+==== Tags
+
+Estimating, System Two Estimation
+
+==== Context
+
+...
+
+==== Problem
+
+...
+
+==== Forces
+
+...
+
+==== Solution
+
+...
+
+==== Consequences
+
+...
+
+==== Variants
+
+...
