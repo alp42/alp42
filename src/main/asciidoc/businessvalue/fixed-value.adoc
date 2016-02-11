@@ -1,0 +1,29 @@
+=== Fixed Value
+
+==== Tags
+
+Business Value, Backlog
+
+==== Context
+
+...
+
+==== Problem
+
+...
+
+==== Forces
+
+...
+
+==== Solution
+
+...
+
+==== Consequences
+
+...
+
+==== Variants
+
+...

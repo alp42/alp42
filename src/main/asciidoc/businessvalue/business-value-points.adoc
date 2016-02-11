@@ -1,0 +1,29 @@
+=== Business Value Points
+
+==== Tags
+
+Business Value, Backlog Item, Prioritizing, Abstract Value
+
+==== Context
+
+...
+
+==== Problem
+
+...
+
+==== Forces
+
+...
+
+==== Solution
+
+...
+
+==== Consequences
+
+...
+
+==== Variants
+
+...

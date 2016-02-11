@@ -1,0 +1,29 @@
+=== Return on Investment
+
+==== Tags
+
+Business Value, Backlog Item, Prioritizing, Monetary Value
+
+==== Context
+
+...
+
+==== Problem
+
+...
+
+==== Forces
+
+...
+
+==== Solution
+
+...
+
+==== Consequences
+
+...
+
+==== Variants
+
+...

@@ -1,0 +1,29 @@
+=== Internal Rate of Return
+
+==== Tags
+
+Business Value, Backlog Item, Prioritizing, Monetary Value
+
+==== Context
+
+...
+
+==== Problem
+
+...
+
+==== Forces
+
+...
+
+==== Solution
+
+...
+
+==== Consequences
+
+...
+
+==== Variants
+
+...

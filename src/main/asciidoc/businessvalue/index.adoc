@@ -2,4 +2,18 @@
 
 == Business Value Patterns
 
+include::return-on-investment.adoc[]
+
+include::internal-rate-of-return.adoc[]
+
+include::present-value.adoc[]
+
 include::net-present-value.adoc[]
+
+include::cost-of-delay.adoc[]
+
+include::business-value-points.adoc[]
+
+include::fixed-value.adoc[]
+
+include::emerging-value.adoc[]
